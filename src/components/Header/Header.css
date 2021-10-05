@@ -1,0 +1,21 @@
+.navbar {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    background: rgba(49, 93, 158, 0.637);
+    padding: 10px 1rem;
+    z-index: 999;
+  }
+.navigation a{
+    text-decoration: none;
+    color: rgb(192, 192, 192);
+    margin-right: 20px;
+    padding: 5px;
+    font-size: 18px;
+}
+.navigation a:first-child{
+    margin-left: 30px;
+}
+.navigation a:hover{
+    color: white;
+}

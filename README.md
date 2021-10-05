@@ -1,6 +1,19 @@
+# Increasing your Skill by learning new things.
+
+Learn new things (https://zen-kalam-fc97e8.netlify.app/).
+
+Live site link:-https://zen-kalam-fc97e8.netlify.app/
+### Purposes-
+
+- Improve your skills.
+- good support.
+- good environment to learn new things.
+- Excellent tutor.
+
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://zen-kalam-fc97e8.netlify.app/).
+
 
 ## Available Scripts
 

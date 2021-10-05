@@ -1,0 +1,21 @@
+.notFoundDiv{
+    position: relative;
+    margin: 80px 0px;
+}
+.notFound {
+    transform: translateX(114%);
+    text-align: center;
+    width: 400px;
+    height: 400px;
+    background-color: rgba(119, 81, 10, 0.185);
+    border-radius: 20px;
+}
+.notFound h1{
+    font-size: 80px;
+    color: rgba(78, 67, 67, 0.836);
+    display: inline-block;
+    margin-top: 70px;
+}
+.notFound h3{
+    color: rgb(96, 102, 109);
+}

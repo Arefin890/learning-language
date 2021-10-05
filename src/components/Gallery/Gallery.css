@@ -1,0 +1,21 @@
+.photo img{
+    border-radius: 10px;
+    width: 100%;
+}
+.gallery-title{
+    color: rgb(59, 59, 59) ;
+    margin-top: 75px;
+    margin-bottom: 40px;
+}
+.photo-div{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 15px;
+    padding: 10px;
+}
+.photo-div img{
+    height: 300px;
+    width: 100%;
+    border-radius: 10px;
+    margin: 0px;
+}
